@@ -382,7 +382,7 @@ figure:hover div{transform:rotateX(-90deg);}
   
 }
 .who{
-  clip-path: polygon(0 0, 1600px 5%, 1600px 95%, 0 100%);
+  clip-path: polygon(0 0, 100% 5%, 100% 95%, 0 100%);
   background-color: #d4d0db;
   height: 900px;
   vertical-align: middle;
@@ -416,7 +416,7 @@ figure:hover div{transform:rotateX(-90deg);}
 
 
 .project{
-    clip-path: polygon(0 0, 1600px 0, 1600px 100%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
 }
 .project{
   background-color: #180b2d;
